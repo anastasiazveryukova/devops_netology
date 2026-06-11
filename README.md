@@ -41,6 +41,9 @@ done
 
 Этот скрипт отображает на экране все параметры одной строкой, а не разделяет их.
 
+<img width="970" height="363" alt="Снимок экрана 2026-06-11 131806" src="https://github.com/user-attachments/assets/75f5c8f4-e56f-4d22-a828-b7146bfa6226" />
+
+
 **Шаг 2.** Создадим коммит с описанием `prepare for merge and rebase` и отправим его в ветку main. 
 
 #### Подготовка файла merge.sh 
@@ -80,7 +83,8 @@ done
 **Шаг 5.** Создайте коммит `merge: use shift` и отправьте изменения в репозиторий. 
 
 
-<img width="970" height="475" alt="Снимок экрана 2026-06-10 125138" src="https://github.com/user-attachments/assets/6fcb7481-9c11-4120-8e87-60150188090a" />
+<img width="991" height="447" alt="Снимок экрана 2026-06-11 140601" src="https://github.com/user-attachments/assets/f1e306ee-27e2-4786-9410-33021a9fd994" />
+
 
 
 
