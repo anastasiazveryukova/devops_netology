@@ -140,9 +140,7 @@ echo "====="
 
 **Шаг 5.** И сделаем ещё один коммит `git-rebase 2` с пушем, заменив `echo "Parameter: $param"` на `echo "Next parameter: $param"`.
 
-<img width="986" height="823" alt="Снимок экрана 2026-06-10 125837" src="https://github.com/user-attachments/assets/6015adc3-8ba8-4dbc-9749-c809b23b82b3" />
-
-<img width="964" height="284" alt="Снимок экрана 2026-06-10 130038" src="https://github.com/user-attachments/assets/936d5bab-7fc5-46ab-bda2-e173593e8792" />
+<img width="991" height="819" alt="Снимок экрана 2026-06-11 141537" src="https://github.com/user-attachments/assets/8fe90e43-0fa0-44c1-b16a-1faaeac653f1" />
 
 
 #### Промежуточный итог  
@@ -156,7 +154,7 @@ echo "====="
   
 ![Созданы обе ветки](img/01.png)
 
-<img width="1766" height="466" alt="Снимок экрана 2026-06-10 130348" src="https://github.com/user-attachments/assets/ba628788-1197-4562-9bea-cbc4aad318dd" />
+<img width="1139" height="408" alt="Снимок экрана 2026-06-11 143913" src="https://github.com/user-attachments/assets/93695686-f69e-4826-a464-7beffff6fc01" />
 
 
 #### Merge
@@ -180,7 +178,8 @@ Total 1 (delta 0), reused 0 (delta 0), pack-reused 0
   
 ![Первый мерж](img/02.png)
 
-<img width="985" height="163" alt="Снимок экрана 2026-06-10 130857" src="https://github.com/user-attachments/assets/8e805612-e871-4619-bc1c-f4011c6a6302" />
+<img width="954" height="336" alt="Снимок экрана 2026-06-11 142007" src="https://github.com/user-attachments/assets/6176b0b3-c2ac-4a1e-951d-f63a4810f757" />
+
 
 #### Rebase
 
@@ -298,11 +297,11 @@ Fast-forward
  branching/rebase.sh | 3 +--
  1 file changed, 1 insertion(+), 2 deletions(-)
 ```
-<img width="972" height="567" alt="Снимок экрана 2026-06-10 132002" src="https://github.com/user-attachments/assets/f58916c8-b05d-43af-9d18-0b7d73a46594" />
 
-<img width="951" height="375" alt="Снимок экрана 2026-06-10 132553" src="https://github.com/user-attachments/assets/143584a6-5dcf-4821-ab2a-a4f2f69c4059" />
+<img width="1099" height="997" alt="Снимок экрана 2026-06-11 142838" src="https://github.com/user-attachments/assets/1efe2e56-f7d2-4da3-87cb-aac724c0638e" />
 
-<img width="952" height="241" alt="Снимок экрана 2026-06-10 132803" src="https://github.com/user-attachments/assets/b0a42967-3b0a-4735-a723-13dbfaf2a3d8" />
+<img width="1079" height="284" alt="Снимок экрана 2026-06-11 143054" src="https://github.com/user-attachments/assets/4f90d6d4-2406-4e2a-b2b6-edbe04da1875" />
+
 
 *В качестве результата работы по всем заданиям приложите ссылку на .md-файл в вашем репозитории.*
  
